@@ -33,4 +33,4 @@ SLAGCOIN[:](https://www.slagcoin.com/joystick/layout/shift36_l.png) _they also h
 
 -for helping the design
 
-This reddit post for the inspiration
+[This reddit post for the inspiration](https://www.reddit.com/r/fightsticks/comments/1kiasqy/miku_mojubox_mikubox_early_fsf_submission/?solution=ff437812c4b2a38bff437812c4b2a38b&js_challenge=1&token=bbbe4bf1c9a2b5160829c4be34da58612d497acc7a3828f39123863a3690014b)
