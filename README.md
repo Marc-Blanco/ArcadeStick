@@ -1,6 +1,6 @@
 # ArcadeStick
 ---
-This is an actual arcadestick with the purpose of being a controller, specifically designed for Fighting Games, but specifically Tekken or other 3D fighters because of the use of a Korean lever _Korean levers have a stronger rubber which is perfect for returning quickly to neutral inputs but is slightly harder to make qcf-esque inputs_. I also wanted to add a little bit of personalization, and flavour it, so I'll add another version of the case TBD. The project uses the SAMDUCKSA CWL-NEWHELPME lever and SANWA OBSF-24 buttons but other components could work.
+This is an actual arcadestick with the purpose of being a controller, specifically designed for Fighting Games, but specifically Tekken or other 3D fighters because of the use of a Korean lever _Korean levers have a stronger rubber which is perfect for returning quickly to neutral inputs but is slightly harder to make qcf-esque inputs_. I also wanted to add a little bit of personalization, and flavour it, so I'll add another version of the case TBD. The project uses the SAMDUCKSA CWL-NEWHELPME lever and SANWA OBSF-24 buttons but other components could work. I wanted to make this project because I wanted to try levered sticks and most of them are really expensive
 
 ## CASE
 <img width="1043" height="733" alt="image" src="https://github.com/user-attachments/assets/9ada76bd-7dfe-4a78-8a38-6ef36dc6e4d4" />
