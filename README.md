@@ -4,6 +4,8 @@ This is an actual arcadestick with the purpose of being a controller, specifical
 
 ## CASE
 <img width="1043" height="733" alt="image" src="https://github.com/user-attachments/assets/9ada76bd-7dfe-4a78-8a38-6ef36dc6e4d4" />
+<img width="1225" height="819" alt="image" src="https://github.com/user-attachments/assets/4146858a-7b4d-4df4-a1e9-b1e0094e2152" />
+
 
 ## PCB
 <img width="1007" height="572" alt="image" src="https://github.com/user-attachments/assets/c8da15cc-8236-44ab-9c88-25bfac999502" />
