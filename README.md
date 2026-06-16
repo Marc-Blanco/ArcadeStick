@@ -22,6 +22,9 @@ I haven't worked on it yet but this rep will carry me. https://github.com/OpenSt
 | Lever- CWL-NEWHELPME | 1      | 67,66€  |[Smallcab](https://www.smallcab.net/helpme-c-30_91_80_345.html) | Same as above. Sadly this is a normal price range for joysticks, I don't know any more budget friendly alternatives but if you want expensive there's always the Golden Fanta or Neo Knee lever        
 | Raspberrypi Pico                 | 1       | $0.99  | [Aliexpress](https://es.aliexpress.com/item/1005003371056277.html?spm=a2g0o.productlist.main.1.64b0TBujTBujqQ&algo_pvid=f291c49f-37b8-4414-9bc8-1c92e40f57c4&pdp_ext_f=%7B%22order%22%3A%222296%22%2C%22eval%22%3A%221%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A) | Aliexpress Quality     
  | Total cost | | 113.35$ | | Sorry Hackclub 😞, I tried to make it cheaper but couldn't.                                                                                                                                                                                                                                              
+### Zine
+
+<img width="794" height="1123" alt="image" src="https://github.com/user-attachments/assets/16c7912b-0fb0-48df-b2b7-aba9c80710cc" />
 
 
 
