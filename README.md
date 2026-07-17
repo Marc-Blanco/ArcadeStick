@@ -11,6 +11,10 @@ The Controller consists of a lever, 8 buttons which are all soldered into SMD co
 ## PCB
 <img width="1007" height="572" alt="image" src="https://github.com/user-attachments/assets/c8da15cc-8236-44ab-9c88-25bfac999502" />
 
+## Schematic
+<img width="1090" height="618" alt="image" src="https://github.com/user-attachments/assets/c585d36a-48ef-43eb-b978-721ab5af9b79" />
+
+
 ## Firmware
 I haven't worked on it yet but this rep will carry me. https://github.com/OpenStickCommunity/GP2040-CE?tab=readme-ov-file
 
